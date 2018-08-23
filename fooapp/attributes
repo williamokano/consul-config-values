@@ -1,0 +1,5 @@
+encryption.secret.key.value=anothersupersecretkey
+
+spring.datasource.url.value=jdbc:postgresql://localhost:5432/rw_iam_dev
+spring.datasource.username.value=rw_iam_user
+spring.datasource.password.value=superchangemypass

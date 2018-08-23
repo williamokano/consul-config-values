@@ -1,0 +1,6 @@
+server.port.value=9191
+
+# Sync
+grpc.port.value=5053
+grpc.secret.value=pazSTd7QGMb3GwPm9cFRvz
+realwave.iam.sync.enabled=true
