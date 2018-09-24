@@ -1,0 +1,6 @@
+{
+    "values.server.port": "9191",
+    "values.grpc.port": "5053",
+    "values.grpc.secret": "askjdyh1892u3jlkamsd",
+    "values.realwave.iam.sync.enabled": "false"
+}
