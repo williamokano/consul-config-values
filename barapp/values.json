@@ -1,0 +1,6 @@
+{
+    "values.encryption.secret.key": "MySuperSecretKey",
+    "values.spring.datasource.url": "jdbc:postgresql://localhost:5432/rw_bff_dev",
+    "values.spring.datasource.username": "rw_bff_dev",
+    "values.spring.datasource.password": "rw_bff_dev"
+}
